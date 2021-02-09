@@ -48,7 +48,6 @@ jobs:
         cp -a img docs/img
         cp -a js docs/js
         cp -a services docs/services
-        cp CNAME docs/CNAME
         cp Gemfile docs/Gemfile
         cp Gemfile.lock docs/Gemfile.lock
         cp _config.yml docs/_config.yml
