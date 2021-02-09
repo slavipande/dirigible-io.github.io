@@ -9,7 +9,7 @@ kramdown:
     coderay_css: class
 highlighter: rouge
 baseurl:
-url: https://slavipande.github.io/dirigible-io.github.io/
+url: https://slavipande.github.io/dirigible-io.github.io
 plugins:
   - jekyll-feed
   - jekyll-redirect-from
