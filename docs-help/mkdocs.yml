@@ -9,7 +9,7 @@ theme:
     - navigation.tabs
 
 extra_css:
-  - stylesheets/custom.css
+  - docs/stylesheets/custom.css
 
 markdown_extensions:
     - pymdownx.snippets
