@@ -106,3 +106,33 @@ Welcome! How can we help?
 
 <hr class="solid">
 
+<div class="row">
+  <div class="column1">
+		<h2>Updates</h2>
+		<ul>
+			<li><a href="https://www.dirigible.io/news.html">News</a></li>
+			<li><a href="https://www.dirigible.io/blogs.html">Blogs</a></li>
+		</ul>
+  </div>
+  <div class="column1">
+  </div>
+  <div class="column1">	
+		<h2>Credits & License</h2>
+		<ul>
+			<li><a href="overview/credits">Credits</a></li>
+			<li><a href="overview/license">License</a></li>
+		</ul>
+  </div>
+  <div class="column1">
+  </div>
+  <div class="column1">		
+		<h2>References</h2>
+		<ul>
+			<li><a href="https://www.dirigible.io">Eclipse Dirigible</a></li>
+			<li><a href="http://trial.dirigible.io">Try It Out</a></li>
+			<li><a href="https://github.com/eclipse/dirigible/issues">Issues</a></li>
+			<li><a href="https://dev.eclipse.org/mailman/listinfo/dirigible-dev">Join the Discussion</a></li>
+		</ul>
+  </div>
+</div>
+
