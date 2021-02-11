@@ -89,8 +89,6 @@
   font-size: 22px;
 }
 
-hr.solid1 {
-  border-top: 1px solid #f1f1f1;
 
 .card button {
   border: none;
@@ -108,3 +106,8 @@ hr.solid1 {
 
 hr.solid {
   border-top: 1px solid #2d2d2d;
+}
+
+hr.solidshort {
+	border-top: 1px solid #f1f1f1:
+}
