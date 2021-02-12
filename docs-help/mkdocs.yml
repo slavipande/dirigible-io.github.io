@@ -8,6 +8,7 @@ theme:
   custom_dir: overrides
   features:
     - navigation.instant
+    - header.autohide
 extra_css:
   - stylesheets/custom.css
   - stylesheets/homepage.css
