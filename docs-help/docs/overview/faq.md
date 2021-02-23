@@ -16,7 +16,7 @@ title: FAQ
     - Short `life-cycle` management process.
     
 
-??? info "Vertical Scenarios & Horizontal Scaling"
+!!! info "Vertical Scenarios & Horizontal Scaling"
     - Covering end-to-end scenarios including all the application layers from architecture perspective as well as all the development process phases from project management perspective.
     - All or nothing – partial doesn't count.
     - Equal runtime instances based on a single content package for simple and reliable management.
