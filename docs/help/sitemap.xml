@@ -12,18 +12,6 @@
      <lastmod>2021-05-10</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://www.dirigible.io/help/development/IDE/views/about/</loc>
-     <lastmod>2021-05-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://www.dirigible.io/help/development/IDE/views/history/</loc>
-     <lastmod>2021-05-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://www.dirigible.io/help/development/IDE/views/staging/</loc>
-     <lastmod>2021-05-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
      <loc>https://www.dirigible.io/help/development/artifacts/</loc>
      <lastmod>2021-05-10</lastmod>
      <changefreq>daily</changefreq>
@@ -108,7 +96,19 @@
      <lastmod>2021-05-10</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
+     <loc>https://www.dirigible.io/help/development/ide/about/</loc>
+     <lastmod>2021-05-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>https://www.dirigible.io/help/development/ide/editor-monaco/</loc>
+     <lastmod>2021-05-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.dirigible.io/help/development/ide/history/</loc>
+     <lastmod>2021-05-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.dirigible.io/help/development/ide/staging/</loc>
      <lastmod>2021-05-10</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
