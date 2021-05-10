@@ -96,19 +96,7 @@
      <lastmod>2021-05-10</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
-     <loc>https://www.dirigible.io/help/development/ide/about/</loc>
-     <lastmod>2021-05-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
      <loc>https://www.dirigible.io/help/development/ide/editor-monaco/</loc>
-     <lastmod>2021-05-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://www.dirigible.io/help/development/ide/history/</loc>
-     <lastmod>2021-05-10</lastmod>
-     <changefreq>daily</changefreq>
-    </url><url>
-     <loc>https://www.dirigible.io/help/development/ide/staging/</loc>
      <lastmod>2021-05-10</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
@@ -160,6 +148,10 @@
      <lastmod>2021-05-10</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
+     <loc>https://www.dirigible.io/help/development/ide/views/about/</loc>
+     <lastmod>2021-05-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
      <loc>https://www.dirigible.io/help/development/ide/views/access/</loc>
      <lastmod>2021-05-10</lastmod>
      <changefreq>daily</changefreq>
@@ -189,6 +181,10 @@
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.dirigible.io/help/development/ide/views/git/</loc>
+     <lastmod>2021-05-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.dirigible.io/help/development/ide/views/history/</loc>
      <lastmod>2021-05-10</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
@@ -233,6 +229,10 @@
      <changefreq>daily</changefreq>
     </url><url>
      <loc>https://www.dirigible.io/help/development/ide/views/sql/</loc>
+     <lastmod>2021-05-10</lastmod>
+     <changefreq>daily</changefreq>
+    </url><url>
+     <loc>https://www.dirigible.io/help/development/ide/views/staging/</loc>
      <lastmod>2021-05-10</lastmod>
      <changefreq>daily</changefreq>
     </url><url>
